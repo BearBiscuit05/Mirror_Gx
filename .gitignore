@@ -1,0 +1,6 @@
+.vs
+.vscode
+build
+Mirror_Gx
+*.log
+.idea
